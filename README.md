@@ -1,5 +1,5 @@
-# Spotify Data Dashboard Project
-The Spotify Data Dashboard Project utilizes Power BI to analyze and visualize Spotify's music streaming data, offering insights into user preferences, song popularity, and streaming trends. The project showcases the ability to transform raw data into actionable insights through interactive dashboards.
+# Spotify Data Analytics Project
+The Spotify Data Analytics Project utilizes Power BI to analyze and visualize Spotify's music streaming data, offering insights into user preferences, song popularity, and streaming trends. The project showcases the ability to transform raw data into actionable insights through interactive dashboards.
 
 Key Features of the Project:
 
